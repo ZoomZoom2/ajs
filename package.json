@@ -1,0 +1,12 @@
+{
+  "name": "@zoomzoom2/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git repository": "git@github.com:ZoomZoom2/ajs.git",
+  "author": "ZoomZoom2",
+  "license": "ISC"
+}
